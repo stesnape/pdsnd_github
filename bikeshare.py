@@ -287,3 +287,5 @@ def main():
 
 if __name__ == "__main__":
 	main()
+# ------------------ #
+# Added footer as didnt d othe bikeshare py project/course but needed changes for git course 
