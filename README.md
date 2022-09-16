@@ -1,17 +1,27 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+# Title
 
-### Date created
-Include the date you created this project and README file.
+Udacity Git Project
 
-### Project Title
-Replace the Project Title
+## Description
 
-### Description
-Describe what your project is about and what it does
+In this project, I used someone else's gitshare project as I did not do the python course.
+I will be using this to demonstrate the git command and knowledge i've learnt
 
-### Files used
-Include the files used
+## Creation Date
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+16/9/2022
 
+## Required Software
+
+* git
+* vscode
+
+## Files Used
+
+* `chicago.csv`
+* `new_york_city.csv`
+* `washington.csv`
+
+## Credits
+
+* N/A
