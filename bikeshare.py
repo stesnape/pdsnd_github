@@ -5,6 +5,8 @@
 # Title: Bikeshare_Project
 # Added comment for git project in  Udacity 
 # -----------------------------------------------------
+# added extra text to mimic a code change in header
+# -----------------------------------------------------
 import os
 from time import sleep
 import time
@@ -288,3 +290,5 @@ def main():
 
 if __name__ == "__main__":
 	main()
+# ------------------ #
+# Added footer as didnt d othe bikeshare py project/course but needed changes for git course 
